@@ -1,1 +1,1 @@
-generates the assembly code of a C code and save it in an ouput file
+generates the assembly code of a Code and save it in an output file
