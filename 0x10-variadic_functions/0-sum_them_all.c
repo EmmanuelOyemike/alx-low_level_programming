@@ -1,6 +1,5 @@
 /*
- * File: 0-sum_them_all.c
- * 
+ * File: 0-sum_them_all.c 
  */
 
 #include "variadic_functions.h"
