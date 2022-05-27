@@ -1,6 +1,5 @@
 /*
  * File: 0-print_listint.c
- * Auth: Adu-Boahene Bright
  */
 
 #include "lists.h"
